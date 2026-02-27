@@ -13,18 +13,20 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ### meta
+          ### Meta
           API_BASE_URL: https://wakatime.com/api
           REPOSITORY: axthur/axthur
-          ### content
-          SHOW_TITLE: true
+
+          ### Content
+          SHOW_TITLE: false
           SECTION_NAME: waka
-          CODE_LANG: rust
+          BLOCKS: █░
+          CODE_LANG: txt
           TIME_RANGE: all_time
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML
+          IGNORED_LANGUAGES: YAML JSON TOML XML Properties Gradle Groovy Markdown
           TARGET_PATH: README.md
