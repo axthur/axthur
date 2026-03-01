@@ -9,9 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 38 mins
 
-No activity tracked
+Git Config   1 min                 ░████████████████████████   04.07 %
 ```
 
 <!--END_SECTION:waka-->
