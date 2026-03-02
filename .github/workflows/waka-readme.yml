@@ -18,7 +18,7 @@ jobs:
           REPOSITORY: axthur/axthur
 
           ### Content
-          SHOW_TITLE: false
+          SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: ░▒▓█
           CODE_LANG: txt
