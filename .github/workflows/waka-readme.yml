@@ -20,7 +20,7 @@ jobs:
           ### Content
           SHOW_TITLE: false
           SECTION_NAME: waka
-          BLOCKS: █░
+          BLOCKS: ░▒▓█
           CODE_LANG: txt
           TIME_RANGE: all_time
           LANG_COUNT: 10
@@ -28,5 +28,5 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML XML Properties Gradle Groovy Markdown
+          IGNORED_LANGUAGES: YAML, JSON, TOML, XML, TXT, Markdown, Git Config
           TARGET_PATH: README.md
