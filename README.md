@@ -9,6 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 27 February 2026 - To: 02 March 2026
+
 Total Time: 1 hr 44 mins
 
 JavaScript   1 hr 6 mins           ███████████████▓░░░░░░░░░   63.16 %
