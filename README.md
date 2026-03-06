@@ -9,14 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2026 - To: 04 March 2026
+From: 27 February 2026 - To: 05 March 2026
 
-Total Time: 13 hrs 16 mins
+Total Time: 16 hrs 50 mins
 
-Dart         6 hrs 40 mins         ████████████▓░░░░░░░░░░░░   50.28 %
-JavaScript   2 hrs 35 mins         █████░░░░░░░░░░░░░░░░░░░░   19.48 %
-Python       1 hr 4 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Dart         9 hrs 9 mins          █████████████▓░░░░░░░░░░░   54.09 %
+JavaScript   2 hrs 35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
+Python       1 hr 42 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+Other        5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
