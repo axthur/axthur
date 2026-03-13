@@ -1,5 +1,5 @@
 - 📚 Graduando em Ciência da Computação.
-- ✨ Experiências com Java, Kotlin, C++, JavaScript e Python.
+- ✨ Experiente em Java e C++.
 - 🌱 Atualmente, aprendendo Dart (Flutter) e TypeScript.
 - 📫 Contato: [@artrhu](https://discord.com/users/1067915857633751110) no Discord.
 
