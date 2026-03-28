@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2026 - To: 25 March 2026
+From: 27 February 2026 - To: 26 March 2026
 
-Total Time: 60 hrs 24 mins
+Total Time: 62 hrs 12 mins
 
-Dart         35 hrs 46 mins        ██████████████▓░░░░░░░░░░   58.95 %
-Python       12 hrs 10 mins        █████░░░░░░░░░░░░░░░░░░░░   20.07 %
-JavaScript   2 hrs 35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-C++          1 hr 23 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Other        16 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Dart         36 hrs 22 mins        ██████████████▓░░░░░░░░░░   58.23 %
+Python       13 hrs 17 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.27 %
+JavaScript   2 hrs 35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+C++          1 hr 23 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Other        16 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
